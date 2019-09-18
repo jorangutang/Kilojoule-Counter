@@ -1,0 +1,9 @@
+Code copied and adapted from "coding in flow" for creating recyclerview and card view.
+youtube link to playlist:
+	https://www.youtube.com/playlist?list=PLrnPJCHvNZuBtTYUuc5Pyo4V7xZ2HNtf4
+
+Vid for saving state:
+	https://www.youtube.com/watch?v=F7S5QPOEQ3E
+
+SharedPreferences code from "Coding in flow":
+	https://codinginflow.com/tutorials/android/sharedpreferences

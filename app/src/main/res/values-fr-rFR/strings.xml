@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_0">0</string>
+
+
+    <string name="breakfast">Petit déjeuner</string>
+    <string name="lunch">déjeuner</string>
+    <string name="dinner">Dîner</string>
+    <string name="food">Aliments</string>
+
+    <string name="edit">Modifier</string>
+    <string name="previous">Retour</string>
+    <string name="save">Sauver</string>
+    <string name="next">Prochain</string>
+    <string name="exit">sortie</string>
+    <string name="done">terminé</string>
+    <string name="clear">effacer</string>
+        
+    <string name="exercise">Exercice</string>
+    <string name="other">Autre</string>
+    <string name="walk">Marche</string>
+
+    <string name="action_settings">Réglages</string>
+    <string name="kj">kJ</string>
+    <string name="average_nki">Moyenne NKI</string>
+    <string name="grand">Grand NKI</string>
+    <string name="title_activity_new_entry">Calculatrice</string>
+    <string name="title_activity_diary">Journal</string>
+</resources>
